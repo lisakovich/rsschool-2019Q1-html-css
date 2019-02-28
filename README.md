@@ -1,5 +1,5 @@
 # rsschool-2019Q1-codeacademy
 Dima Lisakovich
-HTML CSS Basics: https://github.com/lisakovich/rsschool-2019Q1-html-css
-account codeacademy lisakovich008499629438
-https://www.codecademy.com/lisakovich008499629438
+HTML CSS Basics: 
+https://www.codecademy.com/learn/learn-html
+https://www.codecademy.com/learn/learn-css
